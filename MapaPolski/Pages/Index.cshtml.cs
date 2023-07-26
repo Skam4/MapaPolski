@@ -14,7 +14,11 @@ namespace MapaPolski.Pages
 
         public void OnGet()
         {
+            /*
+            < img class="Bialystok" src="~/image/miasto.png" />
 
+            <img class="DojlidyGorne" src="~/image/dojlidy_górneq.png" />
+            */
         }
     }
 }
